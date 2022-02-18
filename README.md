@@ -1,2 +1,2 @@
 # ChecoOnMediums
-Formula AI Hackathon - 
+Formula AI Hackathon - 3D Modelling Challenge
