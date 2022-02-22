@@ -1,11 +1,11 @@
 # ChecoOnMediums
-Formula AI Hackathon - 3D Modelling Challenge
+### Formula AI Hackathon - 3D Modelling Challenge
 
-###### Requirements:
+##### Requirements:
 Blender 3.0 installed
 Python Conda Environment File : pyblend_environment.yml or use spec-file.txt
 
-###### Steps to set up environment
+##### Steps to set up environment
 From spec-file
 ```
 conda create --name myenv --file spec-file.txt
