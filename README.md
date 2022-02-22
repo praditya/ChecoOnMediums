@@ -12,7 +12,7 @@ conda create --name myenv --file spec-file.txt
 ```
 From yml file
 ```
-conda env create -f environment.yml
+conda env create -f pyblend_environment.yml
 ```
 
 Add path of environment in blender script (main)
