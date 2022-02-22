@@ -18,9 +18,9 @@ conda env create -f pyblend_environment.yml
 
 Add path of environment in blender script (main)
 ```
-sys.path.append(obsolute path + 'Anaconda3\\envs\\pyblend\\lib\\site-packages')
+sys.path.append(absolute path + 'Anaconda3\\envs\\pyblend\\lib\\site-packages')
 ```
-obsolute path - path of Anaconda installation (``` where python ```)
+absolute path - path of Anaconda installation (``` where python ```)
 
 ##### Execution Structure:
 
