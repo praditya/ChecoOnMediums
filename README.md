@@ -21,3 +21,8 @@ sys.path.append(obsolute path + 'Anaconda3\\envs\\pyblend\\lib\\site-packages')
 ```
 obsolute path - path of Anaconda installation (``` where python ```)
 
+##### Execution Structure:
+
+###### A single file to fetch data and generate an output track environment
+Run 'main' file (blender python script) in blender scripting mode
+
