@@ -1,4 +1,4 @@
-# ChecoOnMediums
+# Checo-On-Mediums
 ### Formula AI Hackathon - 3D Modelling Challenge
 
 ##### Requirements:
